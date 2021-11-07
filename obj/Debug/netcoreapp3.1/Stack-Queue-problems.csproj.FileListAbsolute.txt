@@ -1,0 +1,14 @@
+C:\Users\prabhakar\source\repos\Stack-Queue-problems\bin\Debug\netcoreapp3.1\Stack-Queue-problems.exe
+C:\Users\prabhakar\source\repos\Stack-Queue-problems\bin\Debug\netcoreapp3.1\Stack-Queue-problems.deps.json
+C:\Users\prabhakar\source\repos\Stack-Queue-problems\bin\Debug\netcoreapp3.1\Stack-Queue-problems.runtimeconfig.json
+C:\Users\prabhakar\source\repos\Stack-Queue-problems\bin\Debug\netcoreapp3.1\Stack-Queue-problems.runtimeconfig.dev.json
+C:\Users\prabhakar\source\repos\Stack-Queue-problems\bin\Debug\netcoreapp3.1\Stack-Queue-problems.dll
+C:\Users\prabhakar\source\repos\Stack-Queue-problems\bin\Debug\netcoreapp3.1\Stack-Queue-problems.pdb
+C:\Users\prabhakar\source\repos\Stack-Queue-problems\obj\Debug\netcoreapp3.1\Stack-Queue-problems.csproj.AssemblyReference.cache
+C:\Users\prabhakar\source\repos\Stack-Queue-problems\obj\Debug\netcoreapp3.1\Stack-Queue-problems.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\prabhakar\source\repos\Stack-Queue-problems\obj\Debug\netcoreapp3.1\Stack-Queue-problems.AssemblyInfoInputs.cache
+C:\Users\prabhakar\source\repos\Stack-Queue-problems\obj\Debug\netcoreapp3.1\Stack-Queue-problems.AssemblyInfo.cs
+C:\Users\prabhakar\source\repos\Stack-Queue-problems\obj\Debug\netcoreapp3.1\Stack-Queue-problems.csproj.CoreCompileInputs.cache
+C:\Users\prabhakar\source\repos\Stack-Queue-problems\obj\Debug\netcoreapp3.1\Stack-Queue-problems.dll
+C:\Users\prabhakar\source\repos\Stack-Queue-problems\obj\Debug\netcoreapp3.1\Stack-Queue-problems.pdb
+C:\Users\prabhakar\source\repos\Stack-Queue-problems\obj\Debug\netcoreapp3.1\Stack-Queue-problems.genruntimeconfig.cache
