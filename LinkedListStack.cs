@@ -46,6 +46,36 @@ namespace Stack_Queue_problems
                 Console.WriteLine(" ");
             }
         }
-       
+        internal void peek()
+        {
+            if (top == null)
+            {
+                Console.WriteLine("stack is empty");
+            }
+            else
+            {
+                Console.WriteLine(top.data + " is at top.");
+            }
+        }
+        internal void pop()
+        {
+            if (top == null)
+            {
+                Console.WriteLine("stack is empty");
+            }
+            else
+            {
+                Console.WriteLine(top.data + " is at popped out.");
+                top = top.next;
+            }
+        }
+        internal void isempty()
+        {
+            while (top != null)
+            {
+                peek();
+                pop();
+            }
+        }
     }
 }
