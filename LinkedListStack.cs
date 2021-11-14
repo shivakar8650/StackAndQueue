@@ -25,7 +25,7 @@ namespace Stack_Queue_problems
                 node.next = top;
                 top = node;
             }
-            Console.WriteLine(data + "pushed to the stack");
+            Console.WriteLine(data + " pushed to the stack");
         }
 
         internal void display()
@@ -37,7 +37,7 @@ namespace Stack_Queue_problems
             else
             {
                 Node temp = top;
-                Console.Write("Element in stack is :");
+                Console.Write("Elements in stack is :");
                 while (temp != null)
                 {
                     Console.Write(temp.data + " ");
