@@ -14,7 +14,9 @@ namespace Stack_Queue_problems
             this.front = null;
             this.rear = null;
         }
+       
 
+        //to add the element.
         internal void Enqueu(int data)
         {
             Node node = new Node(data);
@@ -48,6 +50,8 @@ namespace Stack_Queue_problems
                 Console.WriteLine(" ");
             }
         }
+
+        //to remove the element.
         internal void Dequeu()
         {
             if (front == null)
@@ -56,6 +60,7 @@ namespace Stack_Queue_problems
             }
             else
             {
+                Console.WriteLine("perform dequeu");
                 front = front.next;
             }
         }
