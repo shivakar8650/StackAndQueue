@@ -25,7 +25,7 @@ namespace Stack_Queue_problems
                 node.next = top;
                 top = node;
             }
-            Console.WriteLine(data + "pushed to the stack");
+            Console.WriteLine(data + " pushed to the stack");
         }
 
         internal void display()

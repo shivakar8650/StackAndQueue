@@ -6,7 +6,7 @@ namespace Stack_Queue_problems
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello World!");
+            Console.WriteLine("Welcome to the UC2_stack!");
             LinkedListStack stack = new LinkedListStack();
             stack.push(70);
             stack.push(30);
